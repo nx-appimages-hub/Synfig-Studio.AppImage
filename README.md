@@ -1,0 +1,1 @@
+# Synfig-Studio.AppImage
